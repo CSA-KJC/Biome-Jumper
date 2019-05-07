@@ -1,3 +1,20 @@
+'''
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+#####
+Katie Chiu
+Swimming Squid
+Version .1
+Last updated 6 May 2019
+Jump and get as many coins as you can. Monsters sit on platforms and shoot lasers at you. Each coin 1 point. Killing a monster is 25 points You lose by falling, touching a monster, or getting hit by a laser. Use arrows to move left and right. Use spacebar to jump. Use up arrow to shoot.'''
 import pygame, sys, random
 
 pygame.init()
